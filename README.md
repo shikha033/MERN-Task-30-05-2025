@@ -1,1 +1,6 @@
-# MERN-Task-30-05-2025
+# School Dashboard
+
+A simple and responsive HTML/CSS-based School Dashboard UI. It includes a sidebar for navigation and four dashboard cards displaying key school metrics.
+
+
+
